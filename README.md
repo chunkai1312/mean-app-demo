@@ -6,26 +6,26 @@
 
 ### Setup
 
-```sh
+```
 $ npm install
 ```
 
 ### Developing
 
-```sh
+```
 $ npm run dev
 ```
 
 ### Running
 
-```sh
+```
 $ npm run build
 $ npm start
 ```
 
 ### Testing
 
-```sh
+```
 $ npm test
 ```
 
