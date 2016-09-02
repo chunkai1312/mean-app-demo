@@ -1,6 +1,6 @@
 # mean-app-demo
 
-> A simple MEAN stack web application
+> A simple blog developed by using MEAN (MongoDB, Express.js, Angular.js, Node.js) stack
 
 ## Usage
 
